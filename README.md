@@ -1,4 +1,4 @@
-# Shopizer 3 (for java 1.8 +) (tested with Java 11)
+mvn # Shopizer 3 (for java 1.8 +) (tested with Java 11)
 
 
 ## Shopizer 2.X (for java 1.8 +) is still available
